@@ -46,21 +46,13 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![1](https://github.com/user-attachments/assets/746901f2-1dfc-46a7-ba1b-5d36f8d1f28e)
+![Screenshot 2024-11-17 131704](https://github.com/user-attachments/assets/7d98389d-b82f-4df6-beed-54ae5e59fe33)
+![Screenshot 2024-11-17 131710](https://github.com/user-attachments/assets/565097d5-49b8-4cce-8f28-54072b7b2343)
+![Screenshot 2024-11-17 131718](https://github.com/user-attachments/assets/7d731df1-e93a-4be3-95cb-aa89fb6d3373)
+![Screenshot 2024-11-17 131724](https://github.com/user-attachments/assets/c573b624-36bc-4d5e-ab33-94b55af78696)
+![Screenshot 2024-11-17 131731](https://github.com/user-attachments/assets/4b76d665-60fc-4305-ad73-978108e1a3a4)
 
-![2](https://github.com/user-attachments/assets/e39de0ed-c52b-430f-8917-6b94ee1468e1)
-
-![3](https://github.com/user-attachments/assets/3e91216d-3538-4cd9-8ca7-27f8e4e5a48a)
-
-![4'](https://github.com/user-attachments/assets/a05daca2-3a7d-4304-869b-b953af37c647)
-
-
-![5](https://github.com/user-attachments/assets/f4fca9c6-4216-4fc3-9f00-8458f6f5ef58)
-
-![6](https://github.com/user-attachments/assets/e2c8edeb-66f4-4a83-b4de-57930a09d9e2)
-
-
-
+![Screenshot 2024-11-17 131737](https://github.com/user-attachments/assets/e379b81d-f1b6-4f18-b44c-da5c94c7dfd0)
 
 
 
